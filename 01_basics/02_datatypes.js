@@ -5,7 +5,7 @@ let bigNumber = 12345678901234567890n
 let myNull = null;
 let myUndefined = undefined;
 let mySymbol = Symbol( "mySymbol" );
-let myObject = { Prachi }
+// let myObject = { Prachi }  Not correct way to write the object
 
 console.log( name_student );
 
