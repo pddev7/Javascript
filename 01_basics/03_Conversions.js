@@ -12,3 +12,21 @@ console.log( valueInNumber );
 
 let valuetoString = String( Num );
 console.log( valuetoString );
+
+
+// Operations
+
+let value = 20
+negvalue = -value
+
+console.log( negvalue );
+
+let str = "Prachi"
+let str1 = "Deokate"
+
+console.log( str + str1 );
+
+let GameCounter = 100
+// ++GameCounter;
+GameCounter++;
+console.log( GameCounter );
